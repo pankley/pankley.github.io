@@ -461,9 +461,9 @@ ninja.data = [{
           description: "Comparative metabolomic profiling of p-phenylenediamines (PPDs) and their quinone transformation products, including 6PPD and 6PPD-quinone",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-high-throughput-transcriptomics-across-61-chemicals-in-microalgae",
+          title: 'High-Throughput Transcriptomics Across 61 Chemicals in Microalgae',
+          description: "Concentration-response RNA-seq in Raphidocelis subcapitata for mechanism-of-action profiling and tPOD derivation",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/3_project/";
             },},{id: "projects-project-4",
