@@ -451,8 +451,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-transcriptomics-point-of-departure-uncertainty-estimation",
-          title: 'Transcriptomics Point-of-Departure Uncertainty Estimation',
+          section: "News",},{id: "projects-multi-species-tpod-bootstrapping-pipeline",
+          title: 'Multi-Species tPOD Bootstrapping Pipeline',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/1_project/";
