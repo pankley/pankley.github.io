@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Transcriptomics Point-of-Departure Uncertainty Estimation
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Data Science
 related_publications: true
 ---
 
