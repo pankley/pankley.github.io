@@ -456,9 +456,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-nontargeted-metabolomics-of-tire-antiozonants-in-rtgill-w1-cells",
+          title: 'Nontargeted Metabolomics of Tire Antiozonants in RTgill-W1 Cells',
+          description: "Comparative metabolomic profiling of p-phenylenediamines (PPDs) and their quinone transformation products, including 6PPD and 6PPD-quinone",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
